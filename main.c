@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("Cao cao \n");
+    printf("Cao inspektore \n");
 
     return 0;
 }
