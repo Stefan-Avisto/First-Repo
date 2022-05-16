@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("Cao \n");
+    printf("Promenio sam tekst \n");
 
     return 0;
 }
